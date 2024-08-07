@@ -1,5 +1,3 @@
-![Header](https://github.com/gscoutinho.png)
-
 # Hi there, I'm Gabriel Coutinho 👋
 
 ## About Me
