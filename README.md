@@ -10,8 +10,8 @@ I'm a passionate software engineer with over 6 years of experience in Control an
 
 ## Skills
 
-- **Programming Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks and Libraries:** Vue.js, Next.js, Pandas, Matplotlib
+- **Programming Languages:** Python, JavaScript, C#, Go, HTML, CSS
+- **Frameworks and Libraries:** Vue.js, Next.js, Pandas, Matplotlib, Node.js, Express.js
 - **Tools and Platforms:** Git, Docker, Kubernetes, VMWare vSphere
 - **Specialties:** SCADA Systems, Industrial Cybersecurity, Network Design, Agile Scrum
 
